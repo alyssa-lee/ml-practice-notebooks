@@ -39,3 +39,13 @@ Things I learned:
 - Practiced making matplotlib plots
 - Jupyter notebook keyboard shortcuts
 - When cluster models are helpful, and when they are not
+
+## Week 3
+Meeting with Caleb: Mon 9/26
+
+Tasks:
+- Use Contextualized.ML package to learn contextual model on examples from last week
+- Read papers
+
+Things I learned:
+- Review prior/posterior distribution stuff
