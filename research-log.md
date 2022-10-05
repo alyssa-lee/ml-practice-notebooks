@@ -42,10 +42,18 @@ Things I learned:
 
 ## Week 3
 Meeting with Caleb: Mon 9/26
+Meeting with Caleb: Wed 9/28
 
-Tasks:
-- Use Contextualized.ML package to learn contextual model on examples from last week
-- Read papers
+Tasks (7h):
+- Use Contextualized.ML package to learn contextual model on examples from last week (1h)
+- Read Contextualized Explanation Networks (4h)
+- Read about Survival analysis (1h)
+- Read Personalized Survival Prediction with CENs (1h)
 
 Things I learned:
-- Review prior/posterior distribution stuff
+- Review probability distributions
+- Survival analysis/hazard functions
+- Contextual explanation networks
+
+## Week 4
+Start Alzheimer's progression study (ADNI)
